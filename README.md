@@ -4,7 +4,7 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 
 A file storage application.
 ## Hosting
-The projet is hosted on vercel for demo and testing purposes: cloud-vault-sable.vercel.app
+The projet is hosted on vercel for demo and testing purposes: [cloud-vault-sable.vercel.app](https://cloud-vault-sable.vercel.app/)
 
 ## Getting Started
 To get started, first clone the repository, then inside your terminal run:
