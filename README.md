@@ -3,6 +3,8 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 A file storage application.
+## Hosting
+The projet is hosted on vercel for demo and testing purposes: cloud-vault-sable.vercel.app
 
 ## Getting Started
 To get started, first clone the repository, then inside your terminal run:
